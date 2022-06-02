@@ -1,0 +1,42 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+div {
+    margin: 83px 706px 718px 89px;
+    background: #1F2937;
+    width: 550px;
+    height: 550px;
+}
+header{
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    width: 550px;
+    height: 260px; 
+}
+
+h1{
+text-align: center;
+letter-spacing: -0.05em;
+color: #FFFFFF;
+padding-top: 40px;
+}
+
+h4{
+    text-align: center;
+    margin-top: 30px;
+}
+
+input {
+    text-align: center;
+    height: 20px;
+}
+
+button {
+    text-align: center;
+    }
+
+p {
+    margin-top: 24px;
+    color:white;
+    text-align: center;
+}
